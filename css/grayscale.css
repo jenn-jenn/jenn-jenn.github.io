@@ -271,6 +271,7 @@ i > .icon
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
+
 }
 
 a {
@@ -297,4 +298,3 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
-
