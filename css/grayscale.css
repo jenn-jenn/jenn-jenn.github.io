@@ -12,8 +12,8 @@
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
-  border: 1px solid #64a19d;
+  color: rgb(211, 146, 157);
+  border: 1px solid rgb(211, 146, 157);
 }
 
 #mainNav .navbar-toggler:focus {
@@ -72,15 +72,15 @@
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+    color: rgb(211, 146, 157);
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: rgb(211, 146, 157);
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: rgb(211, 146, 157);
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid rgb(211, 146, 157);
   }
 }
 
@@ -146,20 +146,20 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: rgb(211, 146, 157);
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: rgb(211, 146, 157);
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: rgb(211, 146, 157);
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: rgb(211, 146, 157) !important;
 }
 
 .about-section {
@@ -168,7 +168,7 @@
 }
 
 .about-section p {
-  margin-bottom: 5rem;
+  margin-bottom: 1rem;
 }
 
 .projects-section {
@@ -182,7 +182,7 @@
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid rgb(211, 146, 157);
   }
 }
 
@@ -196,7 +196,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: rgb(211, 146, 157);
     border-width: .25rem;
     width: 30%;
   }
@@ -230,7 +230,7 @@ i > .icon
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid rgb(199, 142, 151);
 }
 
 .contact-section .card h4 {
@@ -241,7 +241,7 @@ i > .icon
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: rgb(211, 146, 157);
   border-width: 0.25rem;
   width: 3rem;
 }
@@ -271,15 +271,16 @@ i > .icon
 body {
   font-family: 'Nunito';
   letter-spacing: 0.0625em;
+
 }
 
 a {
-  color: #64a19d;
+  color: rgb(211, 146, 157);
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: grey;
 }
 
 .bg-black {
@@ -287,14 +288,13 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: rgb(211, 146, 157) !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: rgb(211, 146, 157) !important;
 }
 
 footer {
   padding: 5rem 0;
 }
-
