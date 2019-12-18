@@ -298,3 +298,15 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.about-img-container {
+  width: 270px;
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 5px;
+}
+
+.about-p {
+  margin-right: 20px;
+  text-align: left;
+}
