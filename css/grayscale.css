@@ -58,7 +58,7 @@
     color: rgba(255, 255, 255, 0.75);
   }
   #mainNav .resume-btn:hover {
-    color: black;
+    color: rgb(31, 30, 30);
   }
   #mainNav .nav-link:active {
     color: white;
