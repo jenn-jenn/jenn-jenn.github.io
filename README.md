@@ -1,1 +1,1 @@
-[Portfolio](jennifer-wong.me)
+[Portfolio](www.jennifer-wong.me)
